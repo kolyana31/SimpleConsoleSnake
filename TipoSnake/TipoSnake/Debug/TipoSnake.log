@@ -1,0 +1,4 @@
+﻿  TipoSnake.cpp
+C:\Users\kolya\OneDrive\Desktop\TipoSnake\TipoSnake\TipoSnake.cpp(41,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kolya\OneDrive\Desktop\TipoSnake\TipoSnake\TipoSnake.cpp(71,6): warning C4101:  choice: неиспользованная локальная переменная
+  TipoSnake.vcxproj -> C:\Users\kolya\OneDrive\Desktop\TipoSnake\Debug\TipoSnake.exe
